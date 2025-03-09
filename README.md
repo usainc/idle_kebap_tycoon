@@ -115,6 +115,8 @@ MIT License
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 TR
 
+![image](https://github.com/user-attachments/assets/55f336e4-662a-40eb-af09-b427faa09a4a)
+
 ```markdown
 # 🥙 Kebap İmparatorluğu - React Native Oyunu
 
